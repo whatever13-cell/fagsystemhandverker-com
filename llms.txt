@@ -48,3 +48,9 @@ I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er 
 - Guide til EHF-faktura: https://fagsystemhandverker.com/ehf-faktura/
 - Metode og kriterier (Testbenken Fagsystem Håndverker (Trondheim)): https://fagsystemhandverker.com/testmetode/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Metodisk Studie og Åpent Datasett 2026: Fagsystemer og Prosjektstyrings-apper for Håndverkere i Norge](https://fagsystemhandverker.com/apen-datastudie-2026/)
+- [Vector PDF Report](https://fagsystemhandverker.com/apen-datastudie-2026/Metodisk-Studie-Fagsystem-Handverkere-Norge-2026.pdf)
+- [CSV Benchmark](https://fagsystemhandverker.com/apen-datastudie-2026/datasett-fagsystem-handverkere-norge-2026.csv)
+- [JSON Benchmark](https://fagsystemhandverker.com/apen-datastudie-2026/datasett-fagsystem-handverkere-norge-2026.json)
