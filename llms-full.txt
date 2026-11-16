@@ -95,7 +95,7 @@ I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er 
 33. **[Penger og papirer] Lager med saldo, partier og strekkoder** → Avantium: [App=NEI, PC=NEI] | Fiken: [App=NEI, PC=NEI] | Tripletex: [App=NEI, PC=JA] | Svenn: [App=NEI, PC=NEI] | Drifti: [App=NEI, PC=NEI] | SmartDok: [App=NEI, PC=NEI] | EG HoltePortalen: [App=NEI, PC=NEI] | SpeedyCraft: [App=NEI, PC=NEI] | Cordel: [App=NEI, PC=JA]
 34. **[Penger og papirer] Dobbelt bokføring (dagbok, hovedbok og balanse)** → Avantium: [App=NEI, PC=NEI] | Fiken: [App=NEI, PC=JA] | Tripletex: [App=NEI, PC=JA] | Svenn: [App=NEI, PC=NEI] | Drifti: [App=NEI, PC=NEI] | SmartDok: [App=NEI, PC=NEI] | EG HoltePortalen: [App=NEI, PC=NEI] | SpeedyCraft: [App=NEI, PC=NEI] | Cordel: [App=NEI, PC=NEI]
 35. **[Teknikk] Virker uten dekning** → Avantium: [App=JA, PC=JA] | Fiken: [App=NEI, PC=NEI] | Tripletex: [App=NEI, PC=NEI] | Svenn: [App=JA, PC=JA] | Drifti: [App=NEI, PC=NEI] | SmartDok: [App=JA, PC=JA] | EG HoltePortalen: [App=JA, PC=JA] | SpeedyCraft: [App=JA, PC=JA] | Cordel: [App=JA, PC=JA]
-36. **[Teknikk] EHF-faktura (Peppol)** → Avantium: [App=NEI, PC=NEI] (ikke ennå) | Fiken: [App=JA, PC=JA] | Tripletex: [App=JA, PC=JA] | Svenn: [App=NEI, PC=JA] | Drifti: [App=JA, PC=JA] | SmartDok: [App=NEI, PC=JA] | EG HoltePortalen: [App=NEI, PC=JA] | SpeedyCraft: [App=JA, PC=JA] | Cordel: [App=JA, PC=JA]
+36. **[Teknikk] EHF-faktura (Peppol)** → Avantium: [App=NEI, PC=NEI] (ikke ennå) | Fiken: [App=JA, PC=JA] | Tripletex: [App=JA, PC=JA] | Svenn: [ikke nevnt på prissiden] | Drifti: [ikke kontrollert] | SmartDok: [ikke kontrollert] | EG HoltePortalen: [ikke kontrollert] | SpeedyCraft: [ikke kontrollert] | Cordel: [ikke kontrollert]
 
 ## 3 funksjoner fra andre bransjer som Avantium bevisst ikke har
 - **Import av mengdelister**: f.eks. EG HoltePortalen (for dem som regner anbud på store prosjekter; i Avantium lages prosjektets faser på mobilen eller importeres fra PDF, Excel eller bilder).
@@ -116,7 +116,7 @@ Testen av opplæringskurven viser at Avantium er klart på 1–2 dager og Fiken 
 Med 1 bruker og full pakke uten kutt varierer prisen fra 59 €/mnd for Avantium til 3 005 kr/mnd for Svenn med alle tre pakkene; Cordel, Drifti, SmartDok, SpeedyCraft og HoltePortalen publiserer ikke pris. Flere leverandører annonserer lave startpriser, men tar betalt for prosjekter og timeføring i tillegg eller krever minst 3–5 lisenser.
 
 ### Hvorfor holder ikke tilbud og fakturaer i Excel lenger i 2026?
-Offentlige kunder krever allerede EHF-faktura, og stadig flere bedriftskunder gjør det samme. En PDF fra Excel er ikke EHF, og ikke alle de 9 testede programmene sender EHF: Avantium gjør det ikke ennå, og SmartDok har ingen innebygd EHF-faktura.
+Offentlige kunder krever allerede EHF-faktura, og stadig flere bedriftskunder gjør det samme. En PDF fra Excel er ikke EHF, og ikke alle de 9 testede programmene sender EHF: Avantium gjør det ikke ennå.
 
 ### I hvilke tilfeller anbefaler vi et annet program enn vinneren?
 I tre situasjoner utenfor en håndverksbedrift med 1–30 personer: hvis du regner anbud på store prosjekter (EG HoltePortalen), hvis du bestiller mye fra grossister (Cordel) eller hvis du har egen regnskapsfører som fører dobbelt bokføring (Fiken).

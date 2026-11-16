@@ -130,6 +130,7 @@ I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er 
 - [Mva-registrering](https://fagsystemhandverker.com/skatt/mva-registrering/): 50 000 kr på 12 måneder
 - [Krav til faktura](https://fagsystemhandverker.com/skatt/krav-til-faktura/): Alt som skal stå på fakturaen
 - [Oppbevaring av regnskap](https://fagsystemhandverker.com/skatt/bokforing-oppbevaring/): 5 år, 3,5 år eller 10 år i bygg
+- [Programmer som sender EHF](https://fagsystemhandverker.com/ehf-faktura-fagsystem-handverkere-2026/): Fiken, Tripletex og de andre
 - [EHF-sjekk](https://fagsystemhandverker.com/ehf-faktura-sjekk-handverkere-2026/): Er faktureringen din klar?
 
 ### Lønn og tariff
@@ -196,6 +197,7 @@ I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er 
 - [Håndverker-apper sammenlignet](https://fagsystemhandverker.com/programmer/handverker-app/): Pris per pakke, lest hos leverandøren
 - [Kalkulasjonsprogram for bygg](https://fagsystemhandverker.com/programmer/kalkulasjonsprogram/): Kalkylen trinn for trinn og hva programmene koster
 - [Prosjektstyring for bygg](https://fagsystemhandverker.com/programmer/prosjektstyring-bygg/): Prosjektregnskap over 5 G og programmene
+- [EHF-faktura i programmene](https://fagsystemhandverker.com/ehf-faktura-fagsystem-handverkere-2026/): Hvem sender EHF i dag
 - [Timeføring med GPS](https://fagsystemhandverker.com/timeforing-gps-byggeplass/): Programmer som klarer det på mobilen
 - [Skanne kvitteringer](https://fagsystemhandverker.com/skanne-kvitteringer-pakksedler-app/): Programmer som leser bilag
 - [Akontofakturering](https://fagsystemhandverker.com/anbud-og-akonto-prosjekt/): Programmer som klarer det
