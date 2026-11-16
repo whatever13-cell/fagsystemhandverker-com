@@ -8,7 +8,6 @@
   <url><loc>https://fagsystemhandverker.com/tester/ventilasjon-varmepumpe/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://fagsystemhandverker.com/maler/ventilasjon-varmepumpe/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/tester/lasesmed/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://fagsystemhandverker.com/maler/lasesmed/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/tester/solceller/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://fagsystemhandverker.com/maler/solceller/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/tester/tomrer-snekker/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
@@ -18,23 +17,17 @@
   <url><loc>https://fagsystemhandverker.com/tester/murer-flislegger/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://fagsystemhandverker.com/maler/murer-flislegger/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/tester/totalrenovering/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://fagsystemhandverker.com/maler/totalrenovering/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/tester/anleggsgartner/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://fagsystemhandverker.com/maler/anleggsgartner/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/tester/basseng-spa/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://fagsystemhandverker.com/maler/basseng-spa/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/tester/renhold/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://fagsystemhandverker.com/maler/renhold/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/tester/flyttebyra/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://fagsystemhandverker.com/maler/flyttebyra/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/tester/hvitevareservice/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://fagsystemhandverker.com/maler/hvitevareservice/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/tester/glassmester/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://fagsystemhandverker.com/maler/glassmester/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/tester/skadedyrkontroll/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://fagsystemhandverker.com/maler/skadedyrkontroll/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/tester/garasjeporter/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://fagsystemhandverker.com/maler/garasjeporter/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/tester/vaktmester-borettslag/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://fagsystemhandverker.com/maler/vaktmester-borettslag/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/rapport/avantium/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
@@ -247,12 +240,15 @@
   <url><loc>https://fagsystemhandverker.com/bedrift/handverkertjenesteloven/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/regler/byggesoknad-ferdigattest/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/lonn/laerlinglonn/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fagsystemhandverker.com/bedrift/starte-enkeltpersonforetak/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/kalkulator/timepris/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/regler/vatromsnormen/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/timepris/elektriker/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/lonn/fellesoverenskomsten-byggfag/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/lonn/landsoverenskomsten-elektro/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/maler/timeliste/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fagsystemhandverker.com/programmer/handverker-app/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fagsystemhandverker.com/regler/el-kontroll/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/bedrift/inkasso-og-purring/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/timepris/rorlegger/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/maler/fakturamal/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -263,7 +259,14 @@
   <url><loc>https://fagsystemhandverker.com/timepris/maler/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/kalkulator/kabeltverrsnitt/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/bedrift/mannskapsliste/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fagsystemhandverker.com/programmer/kalkulasjonsprogram/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/maler/arbeidsordre/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fagsystemhandverker.com/programmer/prosjektstyring-bygg/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fagsystemhandverker.com/kalkulator/sykepenger-selvstendig/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fagsystemhandverker.com/timepris/flislegger/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fagsystemhandverker.com/timepris/taktekker/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fagsystemhandverker.com/timepris/murer/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fagsystemhandverker.com/timepris/anleggsgartner/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/kalkulator/lonn-etter-skatt/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/kalkulator/kjoregodtgjorelse-diett/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://fagsystemhandverker.com/kalkulator/mva-kalkulator/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>

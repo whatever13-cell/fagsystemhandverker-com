@@ -7,13 +7,13 @@ I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er 
 ## Rangering November 2026 (9 programmer, 36 funksjoner kontrollert)
 1. **Avantium** — **9,0/10** · Passer for: hele bedriften på mobil og pc · Full pris (1 bruker): 59 €/mnd · App: 33/36 funksjoner · PC: 33/36 funksjoner · Oppstart: 1–2 dager · Butikker: 4,9/5 ★ · Analyse: https://fagsystemhandverker.com/rapport/avantium/
 2. **Fiken** — **7,9/10** · Passer for: enkelt regnskap for små · Full pris (1 bruker): 732 kr/mnd · App: 19/36 funksjoner · PC: 22/36 funksjoner · Oppstart: 2–3 dager · Butikker: 4,7/5 ★ · Analyse: https://fagsystemhandverker.com/rapport/fiken/
-3. **Tripletex** — **7,7/10** · Passer for: regnskap og ordre i ett system · Full pris (1 bruker): 2 039 kr/mnd · App: 26/36 funksjoner · PC: 28/36 funksjoner · Oppstart: 2–3 uker · Butikker: 4,6/5 ★ · Analyse: https://fagsystemhandverker.com/rapport/tripletex/
-4. **Svenn** — **7,6/10** · Passer for: timer og hms på byggeplassen · Full pris (1 bruker): 3 006 kr/mnd · App: 22/36 funksjoner · PC: 27/36 funksjoner · Oppstart: 3–5 dager · Butikker: 4,3/5 ★ · Analyse: https://fagsystemhandverker.com/rapport/svenn/
-5. **Drifti** — **7,4/10** · Passer for: enkelt ordresystem for små bedrifter · Full pris (1 bruker): 1 490 kr/mnd · App: 23/36 funksjoner · PC: 26/36 funksjoner · Oppstart: 3–5 dager · Butikker: ingen vurdering i appbutikkene i Norge · Analyse: https://fagsystemhandverker.com/rapport/drifti/
-6. **SmartDok** — **7,2/10** · Passer for: mannskapslister og maskiner · Full pris (1 bruker): 1 890 kr/mnd · App: 24/36 funksjoner · PC: 27/36 funksjoner · Oppstart: 1–2 uker · Butikker: 2,4/5 ★ · Analyse: https://fagsystemhandverker.com/rapport/smartdok/
-7. **EG HoltePortalen** — **7,1/10** · Passer for: kalkyle og byggesak · Full pris (1 bruker): 2 390 kr/mnd · App: 22/36 funksjoner · PC: 28/36 funksjoner · Oppstart: 2–3 uker · Butikker: 2,9/5 ★ · Analyse: https://fagsystemhandverker.com/rapport/holte/
-8. **SpeedyCraft** — **7,1/10** · Passer for: feltklient til eget erp · Full pris (1 bruker): 1 490 kr/mnd · App: 22/36 funksjoner · PC: 27/36 funksjoner · Oppstart: 2 uker · Butikker: 2,0/5 ★ · Analyse: https://fagsystemhandverker.com/rapport/speedycraft/
-9. **Cordel** — **7,0/10** · Passer for: større bedrifter med grossist og lager · Full pris (1 bruker): 3 259 kr/mnd · App: 24/36 funksjoner · PC: 29/36 funksjoner · Oppstart: 3–4 uker · Butikker: 2,5/5 ★ · Analyse: https://fagsystemhandverker.com/rapport/cordel/
+3. **Tripletex** — **7,7/10** · Passer for: regnskap og ordre i ett system · Full pris (1 bruker): fra 699 kr/mnd · App: 26/36 funksjoner · PC: 28/36 funksjoner · Oppstart: 2–3 uker · Butikker: 4,6/5 ★ · Analyse: https://fagsystemhandverker.com/rapport/tripletex/
+4. **Svenn** — **7,6/10** · Passer for: timer og hms på byggeplassen · Full pris (1 bruker): 3 005 kr/mnd · App: 22/36 funksjoner · PC: 27/36 funksjoner · Oppstart: 3–5 dager · Butikker: 4,3/5 ★ · Analyse: https://fagsystemhandverker.com/rapport/svenn/
+5. **Drifti** — **7,4/10** · Passer for: enkelt ordresystem for små bedrifter · Full pris (1 bruker): ikke publisert · App: 23/36 funksjoner · PC: 26/36 funksjoner · Oppstart: 3–5 dager · Butikker: ingen vurdering i appbutikkene i Norge · Analyse: https://fagsystemhandverker.com/rapport/drifti/
+6. **SmartDok** — **7,2/10** · Passer for: mannskapslister og maskiner · Full pris (1 bruker): ikke publisert · App: 24/36 funksjoner · PC: 27/36 funksjoner · Oppstart: 1–2 uker · Butikker: 2,4/5 ★ · Analyse: https://fagsystemhandverker.com/rapport/smartdok/
+7. **EG HoltePortalen** — **7,1/10** · Passer for: kalkyle og byggesak · Full pris (1 bruker): ikke publisert · App: 22/36 funksjoner · PC: 28/36 funksjoner · Oppstart: 2–3 uker · Butikker: 2,9/5 ★ · Analyse: https://fagsystemhandverker.com/rapport/holte/
+8. **SpeedyCraft** — **7,1/10** · Passer for: feltklient til eget erp · Full pris (1 bruker): ikke publisert · App: 22/36 funksjoner · PC: 27/36 funksjoner · Oppstart: 2 uker · Butikker: 2,0/5 ★ · Analyse: https://fagsystemhandverker.com/rapport/speedycraft/
+9. **Cordel** — **7,0/10** · Passer for: større bedrifter med grossist og lager · Full pris (1 bruker): ikke publisert · App: 24/36 funksjoner · PC: 29/36 funksjoner · Oppstart: 3–4 uker · Butikker: 2,5/5 ★ · Analyse: https://fagsystemhandverker.com/rapport/cordel/
 
 ## 6 valgsituasjoner (3+3)
 - **Installasjons- og servicebedrifter (1–30 ansatte)**: 1. Avantium (91/100), 2. Drifti (82/100)
@@ -116,6 +116,7 @@ I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er 
 - [Forsinkelsesrente](https://fagsystemhandverker.com/kalkulator/forsinkelsesrente/): 12,25 % og purregebyr 2026
 - [Beregne timepris](https://fagsystemhandverker.com/kalkulator/timepris/): Fra tarifflønn til pris per time
 - [Kabeltverrsnitt og spenningsfall](https://fagsystemhandverker.com/kalkulator/kabeltverrsnitt/): For 230 V IT og 400 V TN
+- [Sykepenger for selvstendige](https://fagsystemhandverker.com/kalkulator/sykepenger-selvstendig/): 80 % fra dag 17 og tilleggsforsikringen
 - [Lønn etter skatt](https://fagsystemhandverker.com/kalkulator/lonn-etter-skatt/): Nettolønn for fagarbeidere 2026
 - [Kjøregodtgjørelse og diett](https://fagsystemhandverker.com/kalkulator/kjoregodtgjorelse-diett/): Satsene 2026 for montører
 - [Mva-kalkulator](https://fagsystemhandverker.com/kalkulator/mva-kalkulator/): Legg til eller trekk ut 25 %
@@ -149,6 +150,10 @@ I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er 
 - [Timepris rørlegger](https://fagsystemhandverker.com/timepris/rorlegger/): Regnet fra lønnen i faget
 - [Timepris tømrer](https://fagsystemhandverker.com/timepris/tomrer/): Regnet fra lønnen i faget
 - [Timepris maler](https://fagsystemhandverker.com/timepris/maler/): Regnet fra lønnen i faget
+- [Timepris flislegger](https://fagsystemhandverker.com/timepris/flislegger/): Fra flisleggerlønnen til pris for badet
+- [Timepris taktekker](https://fagsystemhandverker.com/timepris/taktekker/): Fra taktekkerlønnen til pris for taket
+- [Timepris murer](https://fagsystemhandverker.com/timepris/murer/): Fra murerlønnen til pris per time
+- [Timepris anleggsgartner](https://fagsystemhandverker.com/timepris/anleggsgartner/): Fra minstelønnen til pris med maskin
 
 ### Bedrift
 
@@ -158,8 +163,11 @@ I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er 
 - [Reiseregning](https://fagsystemhandverker.com/bedrift/reiseregning-og-bilgodtgjorelse/): Mal i Excel med kravene
 - [Bustadoppføringslova](https://fagsystemhandverker.com/bedrift/bustadoppforingslova/): Garanti, dagmulkt og forskudd
 - [Håndverkertjenesteloven](https://fagsystemhandverker.com/bedrift/handverkertjenesteloven/): Reklamasjon, prisoverslag og tilleggsarbeid
+- [Starte enkeltpersonforetak](https://fagsystemhandverker.com/bedrift/starte-enkeltpersonforetak/): Steg, gebyr og fagets registre
 - [Inkasso og purring](https://fagsystemhandverker.com/bedrift/inkasso-og-purring/): Fristene fra forfall til inkasso
 - [Mannskapsliste](https://fagsystemhandverker.com/bedrift/mannskapsliste/): Oversiktslisten på byggeplassen
+- [Prosjektregnskap i bygg](https://fagsystemhandverker.com/programmer/prosjektstyring-bygg/): Når prosjektet er over 5 G
+- [Syk som selvstendig håndverker](https://fagsystemhandverker.com/kalkulator/sykepenger-selvstendig/): Sykepenger og forsikring for ENK
 
 ### Regler
 
@@ -169,6 +177,7 @@ I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er 
 - [SHA-plan og SJA](https://fagsystemhandverker.com/regler/sha-og-sja/): Byggherreforskriften for håndverkere
 - [Byggesøknad og ferdigattest](https://fagsystemhandverker.com/regler/byggesoknad-ferdigattest/): Når det må søkes, og hvordan saken avsluttes
 - [Våtromsnormen og TEK17](https://fagsystemhandverker.com/regler/vatromsnormen/): Kravene til bad og vaskerom
+- [El-kontroll og tilsyn](https://fagsystemhandverker.com/regler/el-kontroll/): Hva DLE kontrollerer i 2027
 
 ### Maler
 
@@ -184,6 +193,9 @@ I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er 
 ### Programmer
 
 - [Hva er Avantium](https://fagsystemhandverker.com/avantium/): 59 € i måneden, alt inkludert
+- [Håndverker-apper sammenlignet](https://fagsystemhandverker.com/programmer/handverker-app/): Pris per pakke, lest hos leverandøren
+- [Kalkulasjonsprogram for bygg](https://fagsystemhandverker.com/programmer/kalkulasjonsprogram/): Kalkylen trinn for trinn og hva programmene koster
+- [Prosjektstyring for bygg](https://fagsystemhandverker.com/programmer/prosjektstyring-bygg/): Prosjektregnskap over 5 G og programmene
 - [Timeføring med GPS](https://fagsystemhandverker.com/timeforing-gps-byggeplass/): Programmer som klarer det på mobilen
 - [Skanne kvitteringer](https://fagsystemhandverker.com/skanne-kvitteringer-pakksedler-app/): Programmer som leser bilag
 - [Akontofakturering](https://fagsystemhandverker.com/anbud-og-akonto-prosjekt/): Programmer som klarer det
