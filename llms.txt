@@ -138,11 +138,17 @@ I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er 
 - [OTP og yrkesskadeforsikring](https://fagsystemhandverker.com/lonn/otp-og-yrkesskade/): Når du må ha dem, og hva de koster
 - [Lærlinglønn](https://fagsystemhandverker.com/lonn/laerlinglonn/): Prosent per halvår i byggfag
 - [Fellesoverenskomsten for byggfag](https://fagsystemhandverker.com/lonn/fellesoverenskomsten-byggfag/): Satsene i FOB 2026–2028
+- [Landsoverenskomsten for elektrofagene](https://fagsystemhandverker.com/lonn/landsoverenskomsten-elektro/): Lønn, overtid og diett 2026–2028
+- [Lønn for håndverkere](https://fagsystemhandverker.com/lonn/lonn-handverkere/): SSB 2025 fag for fag
 - [Feriepenger etter tariff](https://fagsystemhandverker.com/kalkulator/feriepenger/): 12 % i byggfag
 
 ### Timepris
 
 - [Beregne timepris](https://fagsystemhandverker.com/kalkulator/timepris/): Metoden for alle fag
+- [Timepris elektriker](https://fagsystemhandverker.com/timepris/elektriker/): Regnet fra lønnen i faget
+- [Timepris rørlegger](https://fagsystemhandverker.com/timepris/rorlegger/): Regnet fra lønnen i faget
+- [Timepris tømrer](https://fagsystemhandverker.com/timepris/tomrer/): Regnet fra lønnen i faget
+- [Timepris maler](https://fagsystemhandverker.com/timepris/maler/): Regnet fra lønnen i faget
 
 ### Bedrift
 
@@ -152,6 +158,8 @@ I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er 
 - [Reiseregning](https://fagsystemhandverker.com/bedrift/reiseregning-og-bilgodtgjorelse/): Mal i Excel med kravene
 - [Bustadoppføringslova](https://fagsystemhandverker.com/bedrift/bustadoppforingslova/): Garanti, dagmulkt og forskudd
 - [Håndverkertjenesteloven](https://fagsystemhandverker.com/bedrift/handverkertjenesteloven/): Reklamasjon, prisoverslag og tilleggsarbeid
+- [Inkasso og purring](https://fagsystemhandverker.com/bedrift/inkasso-og-purring/): Fristene fra forfall til inkasso
+- [Mannskapsliste](https://fagsystemhandverker.com/bedrift/mannskapsliste/): Oversiktslisten på byggeplassen
 
 ### Regler
 
@@ -167,7 +175,11 @@ I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er 
 - [Tilbudsmal](https://fagsystemhandverker.com/maler/tilbudsmal/): Word og Excel, med 15 %-regelen
 - [Samsvarserklæring (mal)](https://fagsystemhandverker.com/regler/samsvarserklaering/): Word, etter FEL § 12
 - [Reiseregning (mal)](https://fagsystemhandverker.com/bedrift/reiseregning-og-bilgodtgjorelse/): Excel med kravene
+- [Timeliste mal](https://fagsystemhandverker.com/maler/timeliste/): Excel med timer per dag og kunde
+- [Fakturamal](https://fagsystemhandverker.com/maler/fakturamal/): Word og Excel, med og uten mva
 - [Faktura for håndverkere](https://fagsystemhandverker.com/skatt/krav-til-faktura/): Word og Excel med 25 % mva
+- [Inkassovarsel mal](https://fagsystemhandverker.com/maler/inkassovarsel/): Word, etter inkassoloven § 9
+- [Arbeidsordre mal](https://fagsystemhandverker.com/maler/arbeidsordre/): Word med timer, materiell og signatur
 
 ### Programmer
 
